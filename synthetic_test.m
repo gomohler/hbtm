@@ -42,8 +42,10 @@ rng(124);
 % do 100 simulations
 for i=1:100
 
+% simulate process
 [times,m,marks]=hawkesbinom(mu,k0,w,T,p_back,p_on,p_off,Msize);
 
+% perform EM parameter estimation
 [K0h wh muh p_backh p_onh p_offh p]=EMhb(times,m,marks,10000,10);
 
 k1(i)=K0h(1,1);

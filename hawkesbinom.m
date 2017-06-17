@@ -1,5 +1,7 @@
 function [times,m,marks]=hawkesbinom(mu,k0,w,T,p_back,p_on,p_off,Msize)
 
+%simulate HBTM process
+
 times=zeros(5000,1);
 m=zeros(5000,Msize);
 marks=zeros(5000,1);
