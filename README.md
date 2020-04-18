@@ -13,6 +13,6 @@ Cite: Mohler, G.; Buntain, C.; McGrath, E.; and LaFree, G. 2016.  Hawkes binomia
 
 The file hbtm_covid19_twitter.zip contains code for a HBTM with time varying baseline rate and the data from 
 
-Sha, H.; Al Hasan, M., Mohler, G. and Brantingham, P.J. Dynamic topic modeling of the COVID-19 Twitter narrative among U.S. governors and cabinet executives.
+Sha, H.; Al Hasan, M.; Mohler, G.; and Brantingham, P.J. Dynamic topic modeling of the COVID-19 Twitter narrative among U.S. governors and cabinet executives.
 
 
