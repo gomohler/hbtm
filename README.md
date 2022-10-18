@@ -11,8 +11,5 @@ Run synthetic_test.m to run parameter estimation example
 
 Cite: Mohler, G.; Buntain, C.; McGrath, E.; and LaFree, G. 2016.  Hawkes binomial topic model with applications to coupledconflict-twitter data.DOI: 10.13140/RG.2.2.13638.83527.
 
-The file hbtm_covid19_twitter.zip contains code for a HBTM with time varying baseline rate and the data from 
-
-Sha, H.; Al Hasan, M.; Mohler, G.; and Brantingham, P.J. Dynamic topic modeling of the COVID-19 Twitter narrative among U.S. governors and cabinet executives.
 
 
